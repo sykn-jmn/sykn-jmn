@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7183
-Fork on GitHub
-1380
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Jeman Balios Mama</h1>
 <h3 align="center">A skilled Information Technology student passionate in Software Development</h3>
 
